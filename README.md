@@ -24,7 +24,7 @@ In 2015, the Company implemented a strategic plan to increase E-Commerce sales b
 - **2019 Dip:** Caused by decline in furniture sales  
 - **Forecast:** ~$7.9M sales expected in 2021 and 2022  
 
-![Sales Overview](screenshota.png)
+![Sales Overview](Screenshota.png)
 
 ---
 
@@ -59,13 +59,13 @@ The Company successfully met its 5-year goal to boost sales by 50%. While overal
 ## 📊 Visual Highlights
 
 ### Sales and Profit by Continent  
-![Sales by Continent](screenshotb.png)
+![Sales by Continent](Screenshotb.png)
 
 ### Product Category Performance  
-![Product Performance](screenshotc.png)
+![Product Performance](Screenshotc.png)
 
 ### Forecasted Sales for 2021–2022  
-![Sales Forecast](screenshotd.png)
+![Sales Forecast](Screenshotd.png)
 
 ---
 
