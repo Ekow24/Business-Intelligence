@@ -1,4 +1,4 @@
-[](assets/BI.mp4)
+[](https://github.com/user-attachments/assets/6c8a19c7-cecf-4c96-9cc6-4450022c455e)
 
 # 📊 E-Commerce Sales Analysis Report (2016–2020)
 
@@ -95,6 +95,6 @@ The Company successfully met its 5-year goal to boost sales by 50%. While overal
 
 ## 🔗 Authors & Acknowledgments
 
-Developed as part of a business intelligence project.  
+Developed by Ekow Mills as part of a business intelligence project.  
 Data from Kaggle – [E-Commerce Dataset](https://www.kaggle.com/datasets/onigbenga/ecommerce-dataset).  
 Visualizations created using Microsoft Power BI.
