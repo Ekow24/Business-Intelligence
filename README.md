@@ -1,4 +1,4 @@
-[](https://github.com/user-attachments/assets/6c8a19c7-cecf-4c96-9cc6-4450022c455e)
+![](BI.png)
 
 # 📊 E-Commerce Sales Analysis Report (2016–2020)
 
@@ -60,9 +60,6 @@ The Company successfully met its 5-year goal to boost sales by 50%. While overal
 
 ### Sales and Profit by Continent  
 ![Sales by Continent](Screenshotb.png)
-
-### Product Category Performance  
-![Product Performance](Screenshotc.png)
 
 ### Forecasted Sales for 2021–2022  
 ![Sales Forecast](Screenshotd.png)
